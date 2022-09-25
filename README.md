@@ -7,5 +7,5 @@
 
 
 # Showcase
-[![Veuqx](https://cdn.discordapp.com/attachments/1005779932699447296/1023647024643571792/Unbenannt.png)
+![Veuqx](https://cdn.discordapp.com/attachments/1005779932699447296/1023647024643571792/Unbenannt.png)
 
