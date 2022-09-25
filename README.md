@@ -1,3 +1,1 @@
-# Lunar Spoofer
-# Is Pasted Shit
-# discord.gg/veuqx
+# Veuqx™ Spoofer FiveM Remove Global Ban
